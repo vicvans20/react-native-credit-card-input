@@ -96,6 +96,7 @@ export default class CreditCardInput extends Component {
       number: "•••• •••• •••• ••••",
       name: "FULL NAME",
       expiry: "••/••",
+      expiryLabel: "MONTH/YEAR",
       cvc: "•••",
     },
     additionalInputsProps: {},
